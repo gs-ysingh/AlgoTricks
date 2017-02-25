@@ -6,4 +6,5 @@
         }
     }
 **2. Remove duplicates:** Put all the items in Hash Set
+
 **3. Check if you are getting same result after applying a operation on every element on array:** Put the value after operation in Hash Set and check if hashSet.size() == 1
