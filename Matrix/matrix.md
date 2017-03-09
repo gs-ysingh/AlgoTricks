@@ -6,6 +6,7 @@
         }
     }
 **2. Remove duplicates:** Put all the items in Hash Set
+
 **3. Check if you are getting same result after applying a operation on every element on array:** Put the value after operation in Hash Set and check if hashSet.size() == 1 or you sum all the element and check if equal to 1 => sum == 1
 
 **4. How to get left diagonal of element in matrix:** 
